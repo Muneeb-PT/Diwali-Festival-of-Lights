@@ -38,10 +38,9 @@ The primary goal of this project was to apply fundamental concepts of HTML and C
 
 🖥️ Live Demo
 
-🚀 View the website:
+🚀 View the website 
 
-https://muneeb-pt.github.io/diwali/
-
+https://muneeb-pt.github.io/Diwali-Festival-of-Lights/
 ---
 
 📸 Preview
@@ -53,7 +52,7 @@ assets/
 
 After adding the screenshot to the repository, use:
 
-![Diwali Website Preview](assets/preview.png)
+![Diwali Website Preview](https://muneeb-pt.github.io/Diwali-Festival-of-Lights/)
 
 ---
 
