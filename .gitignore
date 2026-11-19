@@ -1,28 +1,39 @@
-# OS Files
+# Operating System Files
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # VS Code
 .vscode/
 
 # JetBrains IDEs
 .idea/
+*.iml
 
-# Node modules (for future use)
+# Node.js dependencies
 node_modules/
 
 # Logs
 *.log
+npm-debug.log*
 
 # Temporary files
 *.tmp
+*.temp
 
-# Environment files
+# Environment and secrets
 .env
+.env.*
+!.env.example
 
-# Generated files
+# Build and distribution files
 dist/
 build/
 
 # Cache
 .cache/
+
+# Backup files
+*.bak
+*.swp
+*~
