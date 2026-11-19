@@ -1,276 +1,234 @@
-🪔 Diwali — Festival of Lights
+# 🪔 Diwali — Festival of Lights
 
-«A vibrant and responsive Diwali festival webpage created as part of the Foundation of Computing course during my first year of B.Tech Computer Science & Engineering.»
+*A vibrant, responsive Diwali-themed website developed as part of the Foundation of Computing course during my first year of B.Tech Computer Science and Engineering.*
 
-""HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" (https://developer.mozilla.org/en-US/docs/Web/HTML)
-""CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" (https://developer.mozilla.org/en-US/docs/Web/CSS)
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/)
-""Status" (https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)" (https://github.com/Muneeb-PT/diwali)
+\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5">   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3">   \<img src="[https://img.shields.io/badge/Status-Completed-success?style=for-the-badge](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)" alt="Project Status"> \</p>
 
 ---
 
-✨ Overview
+## ✨ Overview
 
-Diwali — Festival of Lights is a static festival-themed website developed as a first-year academic project for the Foundation of Computing course.
+**Diwali — Festival of Lights** is a static festival-themed website created as a first-year academic assignment for the **Foundation of Computing** course.
 
-The website presents Diwali through a visually engaging interface featuring information about the festival, celebrations, events, schedules, and a gallery.
+The website introduces the celebration of Diwali through a visually engaging interface, featuring information about the festival, celebrations, events, schedules, and a photo gallery.
 
-The primary goal of this project was to apply fundamental concepts of HTML and CSS while learning how a real webpage is structured, styled, organized, and published using GitHub.
+The main objective was to apply fundamental HTML and CSS concepts while gaining practical experience in webpage structure, styling, responsive layouts, and publishing a website using GitHub Pages.
 
----
+## 🌟 Features
 
-🌟 Features
-
-- 🪔 Diwali-themed visual design
-- 🎨 Custom HTML & CSS styling
+- 🪔 Diwali-inspired visual theme
+- 🎨 Custom HTML and CSS styling
 - 📱 Responsive webpage layout
 - 🧭 Navigation menu
-- ✨ Hero section with festival introduction
+- ✨ Festival-themed hero section
 - 📖 About Diwali section
-- 🎉 Events and celebrations section
+- 🎉 Events and celebrations
 - 📅 Festival schedule
 - 🖼️ Image gallery
-- 🌐 Web-based typography and visual elements
-- 💻 Hosted using GitHub
-- 📚 Developed as an academic learning project
+- 🌐 Custom typography and visual elements
+- 🚀 Hosted using GitHub Pages
 
----
+## 🖥️ Live Demo
 
-🖥️ Live Demo
+**Explore the website:**
 
-🚀 View the website 
+[Diwali — Festival of Lights](https://muneeb-pt.github.io/Diwali-Festival-of-Lights/)
 
-https://muneeb-pt.github.io/Diwali-Festival-of-Lights/
----
+## 📸 Website Preview
 
-📸 Preview
+Add a screenshot of the actual website to the repository at:
 
-«Add a screenshot of the website here.»
+`assets/preview.png`
 
-assets/
-└── preview.png
+Then use the following Markdown:
 
-After adding the screenshot to the repository, use:
+```markdown
+![Diwali Website Preview](assets/preview.png)
+```
 
-![Diwali Website Preview](https://muneeb-pt.github.io/Diwali-Festival-of-Lights/)
+> The preview will appear here once the screenshot is added to the repository.
 
----
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
+| Technology        | Purpose                                                  |
+| ----------------- | -------------------------------------------------------- |
+| HTML5             | Webpage structure and content                            |
+| CSS3              | Styling, layouts, colors, typography, and responsiveness |
+| Google Fonts      | Web typography                                           |
+| Wikimedia Commons | External visual resources                                |
+| Git               | Version control                                          |
+| GitHub            | Repository hosting and website deployment                |
 
-Technology| Purpose
-HTML5| Structure and semantic content
-CSS3| Styling, layout, colors, typography and responsiveness
-Google Fonts| Web typography
-Wikimedia Commons| Selected external visual resources
-Git & GitHub| Version control and project hosting
+## 📂 Project Structure
 
----
-
-📂 Project Structure
-
-diwali/
+```text
+Diwali-Festival-of-Lights/
 │
-├── index.html          # Main webpage
-├── style.css           # Website styling
-├── assets/             # Project assets and screenshots
-│   └── preview.png
-│
-├── README.md           # Project documentation
-├── LICENSE             # Project license
-└── .gitignore          # Git ignored files
+├── index.html       # Main webpage
+├── style.css        # Website styling
+├── README.md        # Project documentation
+├── .gitignore       # Git ignored files
+└── LICENSE          # License, if included
+```
 
----
+*An `assets/` directory can be added when storing the website preview or other local resources.*
 
-🧩 Website Sections
+## 🧩 Website Sections
 
-🏠 Hero Section
+### 🏠 Hero Section
 
-Introduces the Diwali celebration with a prominent festival-themed visual design and call-to-action elements.
+Introduces the Diwali celebration through a prominent festival-themed design and call-to-action elements.
 
-🪔 About Diwali
+### 🪔 About Diwali
 
-Provides a brief introduction to Diwali and its cultural significance.
+Provides an introduction to Diwali and its cultural significance.
 
-🎊 Events & Celebrations
+### 🎊 Events & Celebrations
 
 Highlights activities and experiences associated with the festival.
 
-📅 Schedule
+### 📅 Schedule
 
-Presents a structured schedule for festival-related activities.
+Presents a structured schedule of festival-related activities.
 
-🖼️ Gallery
+### 🖼️ Gallery
 
 Displays selected visuals related to Diwali and its celebrations.
 
----
+## 🎯 Learning Objectives
 
-🎯 Learning Objectives
+This project provided an opportunity to practise the fundamentals of frontend web development.
 
-This project helped me understand and practice the fundamentals of web development, including:
+Key learning areas included:
 
 - Understanding HTML document structure
-- Using semantic HTML elements
+- Using HTML elements to organize content
 - Creating navigation sections
 - Working with images and external resources
-- Styling webpages using CSS
-- Understanding CSS selectors
-- Working with spacing, typography and layouts
-- Creating visually consistent webpage sections
-- Learning basic responsive design principles
+- Applying CSS selectors and styling rules
+- Managing spacing, typography, and layouts
+- Building visually consistent webpage sections
+- Understanding basic responsive design
 - Organizing files in a web project
-- Using GitHub for project hosting and version control
+- Using GitHub for version control and hosting
 
----
+## 🤖 AI Assistance
 
-🤖 AI Assistance
+AI tools were used as development assistance during this project, particularly to work within the available time.
 
-AI tools were used as a development aid during this project.
+Assistance included:
 
-AI assistance was used for areas such as:
-
-- Initial design and layout ideas
-- HTML/CSS suggestions
+- Initial design and layout suggestions
+- HTML and CSS code suggestions
 - Debugging and troubleshooting
 - Content refinement
 - Improving visual presentation
 - Understanding web-development concepts
 
-The generated suggestions were reviewed, adapted, and incorporated into the project as part of my own learning and coursework.
+Claude AI was used as an assistance tool during development. Its suggestions were incorporated into the project as part of the development process.
 
-«AI was used as an assistance tool, not as a replacement for understanding the concepts implemented in the project.»
+**AI assistance is acknowledged transparently; this project represents an early learning experience rather than an independently developed advanced application.**
 
----
+## 📚 Academic Context
 
-📚 Academic Context
+| Detail         | Information                                    |
+| -------------- | ---------------------------------------------- |
+| Course         | Foundation of Computing                        |
+| Academic Level | First Year (S2)                                |
+| Program        | B.Tech Computer Science & Engineering          |
+| Institution    | KMEA Engineering College                       |
+| University     | APJ Abdul Kalam Technological University (KTU) |
+| Project Type   | Academic Assignment                            |
+| Domain         | Frontend Web Development                       |
+| Submitted To   | Ansia Aboobaker                                |
 
-Details| Information
-Course| Foundation of Computing
-Academic Level| First Year
-Program| B.Tech Computer Science & Engineering
-Institution| KMEA Engineering College
-University| APJ Abdul Kalam Technological University (KTU)
-Project Type| Academic / Learning Project
-Domain| Front-End Web Development
+## 🚀 Getting Started
 
----
+You can run this project locally without installing any special software or setting up a server.
 
-🚀 Getting Started
-
-Prerequisites
-
-No special software or server is required.
-
-You only need:
+### Prerequisites
 
 - A modern web browser
-- A code editor such as VS Code
-- Git (optional, if cloning the repository)
+- A code editor such as Visual Studio Code
+- Git (optional)
 
-Run Locally
+### Run Locally
 
-Clone the repository:
+**1. Clone the repository**
 
-git clone https://github.com/Muneeb-PT/diwali.git
+```bash
+git clone https://github.com/Muneeb-PT/Diwali-Festival-of-Lights.git
+```
 
-Move into the project directory:
+**2. Navigate to the project directory**
 
-cd diwali
+```bash
+cd Diwali-Festival-of-Lights
+```
 
-Open "index.html" in your browser.
+**3. Open the website**
 
-Alternatively, open the project directly using VS Code + Live Server.
+Open `index.html` in your preferred browser.
 
----
+Alternatively, open the project in Visual Studio Code and use the Live Server extension.
 
-🔮 Future Improvements
+## 🔮 Possible Improvements
 
-Although this project was created as a foundational HTML/CSS assignment, several improvements could be made in future versions:
+Some features that could be explored in future versions include:
 
-- Add JavaScript-based interactions
-- Add an interactive festival countdown
-- Improve accessibility
-- Add dark/light theme support
-- Add smoother animations and transitions
-- Improve mobile responsiveness
-- Add an interactive event section
-- Add a contact/feedback form
-- Optimize images for faster loading
-- Add better SEO metadata
-- Add multilingual support
-- Convert the project into a modern component-based frontend application
+- JavaScript-based interactions
+- An interactive festival countdown
+- Improved accessibility
+- Better mobile navigation
+- Optimized images for faster loading
+- Improved SEO metadata
+- Multilingual support
+- Interactive event and feedback sections
+- More advanced animations and transitions
 
----
+These are potential improvements and are not necessarily part of the current implementation.
 
-🧠 What I Learned
+## 🧠 What I Learned
 
-Working on this project gave me practical experience beyond simply writing HTML and CSS.
+This project was one of my early experiences in turning a basic idea into an actual website and publishing it online.
 
-I learned how to:
+It helped me understand the general development process:
 
-«Plan → Design → Build → Test → Debug → Publish»
+**Plan → Design → Build → Test → Debug → Publish**
 
-It was one of my early experiences of turning a basic idea into an actual web project and publishing it online.
+More importantly, I gained practical exposure to HTML, CSS, webpage organization, visual consistency, responsive layouts, and version control.
 
-This project also helped me understand the importance of:
+## 📌 Project Status
 
-- Clean project organization
-- Consistent UI design
-- Responsive layouts
-- Version control
-- Documentation
-- Iterative development
+**Completed — Academic Learning Project**
 
----
+This repository represents an early stage of my web-development journey. It documents my initial experience with frontend development and can be improved as my skills progress.
 
-📌 Project Status
+## 👨‍💻 Author
 
-Completed — Academic Project
-
-This repository represents an early-stage learning project and may be improved as my web-development skills progress.
-
----
-
-👨‍💻 Author
-
-Mohammed Muneeb PT
+**Mohammed Muneeb PT**
 
 B.Tech Computer Science & Engineering
-
 KMEA Engineering College
-
 Kerala, India
 
----
-submitted to Ansia Aboobaker
-🌐 Connect
+### 🌐 Connect
 
-- 💻 GitHub: "@Muneeb-PT" (https://github.com/Muneeb-PT)
-- 🔗 LinkedIn: Add your LinkedIn profile here
+- **GitHub:** [@Muneeb-PT](https://github.com/Muneeb-PT)
+- **LinkedIn:** [Mohammed Muneeb PT](https://linkedin.com/in/mohammed-muneeb-pt)
 
----
+## 📄 License
 
-📄 License
+This project is primarily intended for educational and learning purposes.
 
-This project is intended primarily for educational and learning purposes.
-
-If a license file is included in this repository, please refer to "LICENSE" for the applicable terms.
-
-Third-party images, fonts, and other external resources remain subject to their respective licenses and attribution requirements.
+If a `LICENSE` file is included in the repository, refer to it for the applicable terms. Third-party images, fonts, and external resources remain subject to their respective licenses and attribution requirements.
 
 ---
 
-⭐ Support
-
-If you found this project useful or interesting, consider giving the repository a ⭐ on GitHub.
-
----
-
-<div align="center">🪔 Happy Diwali! 🪔
-
-Festival of Lights • Learning • Creativity • Celebration
-
-Made with ❤️ while learning the fundamentals of web development.
-
-</div>
+\<p align="center">
+&#x20; 🪔 \<strong>Happy Diwali!\</strong> 🪔
+&#x20; \<br>
+&#x20; \<em>Festival of Lights • Learning • Creativity • Celebration\</em>
+&#x20; \<br>\<br>
+&#x20; Made with ❤️ while learning the fundamentals of web development.
+\</p>
